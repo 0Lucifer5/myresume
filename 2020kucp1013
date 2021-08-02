@@ -1,87 +1,55 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Amritanshu Soni",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
+		"picture": "https://avatars.githubusercontent.com/u/88243836?s=400&u=8c1ca361c9021aec9e2834ea5859a9dbafe30ec8&v=4",
+		"email": "2020kucp1013@iiitkota.ac.in",
+		"phone": "9140584255",
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "Sanjarpur",
+			"postalCode": "223227",
+			"city": "Azamgarh",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Uttar Pradesh"
 		},
 		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
+				},
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "0Lucifer5",
+				"url": "https://github.com/0Lucifer5"
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
-			},
-			{
-				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "Amritanshu Soni",
+				"url": "https://www.linkedin.com/in/amritanshu-soni-9a6681200"
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
+
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"startDate": "2020-02-12 //Date",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
+	"languages": [
+        {
+            "language": ["English", "Hindi"]
+            
+        }
+    ],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Beginner",
+		"keywords": [ "C/C++", "HTML", "CSS", "Javascript"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Football", "Badminton", "Chess", "Carrom"]
 	}],
 	"references": []
 }
